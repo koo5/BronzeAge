@@ -1,0 +1,86 @@
+"The Bronze Age is a time period characterized by the use of bronze, proto-writing, and other early features of urban civilization."
+- from Wikipedia, the free encyclopedia
+
+the goal: to free newbies (in any area) from the burden of the past and showcase projects attempting to drag computing from the stone age.
+
+A lot of work has been done. Lets use it. Dont learn bash, learn fish. use a semantic-aware terminal. Get a selection of the
+best languages and IDEs.
+
+roadmap:
+select projects, create installation scripts
+hunt down tutorials and links to videos
+try creating a wholesome desktop experience
+
+
+#stuff to include:..
+
+fish
+zsh
+oh-my-fish, oh-my-zsh
+
+wizzard for installing some useful stuff:
+cb-welcome?
+
+command line goodies:
+https://github.com/koo5/hackery/tree/master/hackery/hmmfish #hmm...:)
+https://github.com/pickhardt/betty
+
+more terminals:
+https://github.com/p-e-w/finalterm
+https://github.com/trogdoro/xiki
+https://github.com/unconed/TermKit
+
+nyosh
+
+
+input:
+plover
+simon?
+
+
+
+
+programming:
+https://github.com/acmeism/RosettaCodeData
+https://github.com/aocole/RosettaCodeExplorer #?
+
+
+
+
+
+C:
+===
+Lets use clang as a little example here. The vision is to create a desktop full of these
+things, where the state of the art tools jump out at users. The goal is that when
+you think about programming in C, you start in this folder, not on google that tells
+you to install gcc and CodeBlocks and assures you C is the best language for ANY PROJECT EVER!
+So we could have a folder on the desktop called "C".
+* a link to a clang tutorial
+* an install script for http://www.jetbrains.com/clion/
+* an install script for http://mbeddr.com/
+* valgrind
+...
+
+
+
+
+
+
+
+
+
+
+other:
+===
+http://inform7.com/
+gambas
+
+
+
+
+
+...
+eulergui
+sewelis
+coq
+
