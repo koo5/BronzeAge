@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #reinteract
-sudo apt-get install reinteract
+sudo apt-get install reinteract ipython ipython3
 cp /usr/share/applications/reinteract.desktop .
 chmod +x reinteract.desktop
 
